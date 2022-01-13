@@ -1,3 +1,7 @@
+//Author: Nathan Zou
+//Date: 1/13/22
+//For use by the person who is using this code for Linked Lists part 2
+
 #include <iostream>
 #include <cstring>
 #include "node.h"
